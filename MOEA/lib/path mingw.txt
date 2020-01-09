@@ -1,0 +1,3 @@
+D:\Projecto\PhD\Development\Timetabling\Qt Creator\MOEA\exes>g++ -O2 -I D:/Projecto/PhD/Libraries/ParadisEO-2.0/eo/src/ -I D:/Projecto/PhD/L
+ibraries/ParadisEO-2.0/mo/src/ -I D:/Projecto/PhD/Libraries/ParadisEO-2.0/moeo/src/ MOEA.cpp -LD:/Projecto/PhD/Libraries/ParadisEO-2.0-build
+/eo/lib -LD:/Projecto/PhD/Libraries/ParadisEO-2.0-build/moeo/lib -leo -les -lmoeo -lcma -leoutils -lga
